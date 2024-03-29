@@ -1,0 +1,10 @@
+matplotlib
+jupyterlab
+pandas
+numpy
+tqdm
+scipy
+seaborn
+scikit-learn
+permetrics
+statsmodels
